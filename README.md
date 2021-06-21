@@ -1,2 +1,2 @@
 # opencv-learning
-## For Leaning OpenCV 
+## For Learning OpenCV 
